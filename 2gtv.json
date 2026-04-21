@@ -1,0 +1,44 @@
+[
+  {
+    "id": "redroommc-s1",
+    "type": "series",
+    "title": "The RedRoom Mic Check",
+    "category": "Interviews",
+    "description": "2G Entertainment presents The RedRoom Mic Check: An intimate look at the talent, the hustle, and the music coming out of the stable.",
+    "cover_art": "https://www.2g-ent.com/uploads/2/7/5/9/27593217/logo_orig.jpg",
+    "featured": true,
+    "episodes": [
+      {
+        "ep_number": 1,
+        "ep_title": "Lou Kain Interview",
+        "ep_thumbnail": "https://www.2g-ent.com/uploads/2/7/5/9/27593217/the-redroom-mic-check-lou-kain-thumbnail_orig.jpg",
+        "ep_description": "Get to know the vibes in this episode with our guest, Lou Kain",
+        "video_url": "https://www.youtube.com/embed/nJsore_53W8"
+      },
+      {
+        "ep_number": 2,
+        "ep_title": "Jair Tha PopStar Interview",
+        "ep_thumbnail": "https://www.2g-ent.com/uploads/2/7/5/9/27593217/the-redroom-mic-check-jair-tha-popstar-thumbnail-jpg_orig.jpg",
+        "ep_description": "It's all about PopStar vibes with this episode's guest, Jair Tha PopStar",
+        "video_url": "https://www.youtube.com/embed/ObnByPnG50w"
+      },
+      {
+        "ep_number": 3,
+        "ep_title": "Brixx Interview",
+        "ep_thumbnail": "https://www.2g-ent.com/uploads/2/7/5/9/27593217/the-redroom-mic-check-brixx-thumbnail-jpg_orig.jpg",
+        "ep_description": "Discuss janky promoters, hustles & 50 50 with this episode's guest, Brixx",
+        "video_url": "https://www.youtube.com/embed/IyoGF4ErQvA"
+      }
+    ]
+  },
+  {
+    "id": "nuk-getdown",
+    "type": "standalone",
+    "title": "It's Nuk - Get Down",
+    "category": "Music Videos",
+    "description": "Official music video for 'Get Down' by It's Nuk. Produced by 2G Entertainment.",
+    "cover_art": "https://i.ytimg.com/vi/NvzVPkG9QQU/maxresdefault.jpg",
+    "featured": false,
+    "video_url": "https://www.youtube.com/embed/NvzVPkG9QQU"
+  }
+]
