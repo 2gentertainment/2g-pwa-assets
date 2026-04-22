@@ -180,12 +180,12 @@
         }
     ]
   },
-  {
+    {
     "id": "redroompc-s1",
     "type": "series",
     "title": "The RedRoom Podcast",
     "category": "Podcasts",
-    "description": "Get in to the conversation happening in your own back yard with The RedRoom Podcast:.",
+    "description": "Get in to the conversation happening in your own back yard with The RedRoom Podcast.",
     "cover_art": "https://www.2g-ent.com/uploads/2/7/5/9/27593217/the-redroom-podcast-logo_orig.jpg",
     "featured": true,
     "content_advisory": {
@@ -201,30 +201,31 @@
       {
         "ep_number": 1,
         "ep_title": "A Message To The YN’s",
-        "ep_thumbnail": "https://www.2g-ent.com/uploads/2/7/5/9/27593217/the-redroom-podcast-logo_orig.jpg”,
+        "ep_thumbnail": "https://www.2g-ent.com/uploads/2/7/5/9/27593217/the-redroom-podcast-logo_orig.jpg",
         "ep_description": "Discuss youth a gang culture, Parental involvement and alternative approaches to saving the youth from gang culture",
-        "video_url": "https://www.youtu.be/Td_aC4z3jT8?si=q21QuNPZMYS6cFLJ",
+        "video_url": "https://www.youtube.com/embed/Td_aC4z3jT8",
         "episode_credits": {
-          "hosts": "Lakim Golden, Brandon Rodgers, Lakecia Harris ",
+          "hosts": "Lakim Golden, Brandon Rodgers, Lakecia Harris",
           "executive_producer": "Lakim Golden",
-          "videography": "2G internship Program",
+          "videography": "2G Internship Program",
           "visual_arts_director": "Ashley Walker"
         }
       },
       {
         "ep_number": 2,
         "ep_title": "Kick it with Lou Kain",
-        "ep_thumbnail": "https://www.2g-ent.com/uploads/2/7/5/9/27593217/the-redroom-podcast-logo_orig.jpg ",
+        "ep_thumbnail": "https://www.2g-ent.com/uploads/2/7/5/9/27593217/the-redroom-podcast-logo_orig.jpg",
         "ep_description": "Join the crew as they build with buzzing music artist Lou Kain",
-        "video_url": "https://www.youtu.be/Arqz6tEzF58",
+        "video_url": "https://www.youtube.com/embed/Arqz6tEzF58",
         "episode_credits": {
-          "hosts": "Lakim Golden, Brandon Rodgers, Lakecia Harris ",
+          "hosts": "Lakim Golden, Brandon Rodgers, Lakecia Harris",
           "executive_producer": "Lakim Golden",
-          "videography": "2G internship Program",
+          "videography": "2G Internship Program",
           "visual_arts_director": "Ashley Walker"
         }
       }
     ]
   }
+
 
 ]
