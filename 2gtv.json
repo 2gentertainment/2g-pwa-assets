@@ -6,6 +6,7 @@
     "category": "Interviews",
     "description": "2G Entertainment presents The RedRoom Mic Check: An intimate look at the talent, the hustle, and the music coming out of the stable.",
     "cover_art": "https://www.2g-ent.com/uploads/2/7/5/9/27593217/the-redroom-mic-check-card_orig.jpg",
+    "detail_art": "https://www.2g-ent.com/uploads/2/7/5/9/27593217/logo_orig.jpg",
     "featured": true,
     "content_advisory": {
       "rating": "18+",
@@ -67,6 +68,7 @@
     "type": "hub",
     "title": "2G Music Videos",
     "category": "Music Videos",
+    "detail_art": "https://www.2g-ent.com/uploads/2/7/5/9/27593217/main-banner_orig.jpg",
     "description": "Explore the official visual releases from the 2G roster.",
     "cover_art": "https://www.2g-ent.com/uploads/2/7/5/9/27593217/2g-music-videos_orig.jpg",
     "featured": true
@@ -79,6 +81,7 @@
     "parent_hub": "main-mv-hub",
     "description": "The official music video collection from Lou Kain.",
     "cover_art": "https://i.ytimg.com/vi/g0_-DDaUUws/maxresdefault.jpg",
+    "detail_art": "https://i.ytimg.com/vi/g0_-DDaUUws/maxresdefault.jpg",
     "featured": true,
     "episodes": [
       {
@@ -112,6 +115,7 @@
     "parent_hub": "main-mv-hub",
     "description": "Official music video collection from Jair Tha PopStar.",
     "cover_art": "https://i.ytimg.com/vi/rQwLfWLwLwo/maxresdefault.jpg",
+    "detail_art": "https://i.ytimg.com/vi/rQwLfWLwLwo/maxresdefault.jpg",
     "featured": true,
     "episodes": [
       {
@@ -131,6 +135,7 @@
     "parent_hub": "main-mv-hub",
     "description": "Official music video collection from Brixx.",
     "cover_art": "https://i.ytimg.com/vi/uksWYdEHsjU/maxresdefault.jpg",
+    "detail_art": "https://i.ytimg.com/vi/uksWYdEHsjU/maxresdefault.jpg",
     "featured": true,
     "episodes": [
       {
@@ -150,6 +155,7 @@
     "parent_hub": "main-mv-hub",
     "description": "Official music video collection from It's Nuk.",
     "cover_art": "https://i.ytimg.com/vi/NvzVPkG9QQU/maxresdefault.jpg",
+    "detail_art": "https://i.ytimg.com/vi/NvzVPkG9QQU/maxresdefault.jpg",
     "featured": true,
     "episodes": [
       {
@@ -169,6 +175,7 @@
     "parent_hub": "main-mv-hub",
     "description": "Label-wide remixes and featured collaborations.",
     "cover_art": "https://i.ytimg.com/vi/pASUzCPvptI/maxresdefault.jpg",
+    "detail_art": "https://i.ytimg.com/vi/pASUzCPvptI/maxresdefault.jpg",
     "featured": false,
     "episodes": [
       {
@@ -187,6 +194,7 @@
     "category": "Podcasts",
     "description": "Get in to the conversation happening in your own back yard with The RedRoom Podcast.",
     "cover_art": "https://www.2g-ent.com/uploads/2/7/5/9/27593217/the-redroom-podcast-card_orig.jpg",
+    "detail_art": "https://www.2g-ent.com/uploads/2/7/5/9/27593217/the-redroom-podcast-logo_orig.jpg",
     "featured": true,
     "content_advisory": {
       "rating": "18+",
