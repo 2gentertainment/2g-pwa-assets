@@ -7,91 +7,34 @@
     "description": "2G Entertainment presents The RedRoom Mic Check: An intimate look at the talent, the hustle, and the music coming out of the stable.",
     "cover_art": "https://www.2g-ent.com/uploads/2/7/5/9/27593217/logo_orig.jpg",
     "featured": true,
-    "content_advisory": {
-      "rating": "18+",
-      "reasons": ["Profanity", "Adult Content", "Mature Themes"]
-    },
-    "main_credits": {
-      "host": "Andrew McBride",
-      "executive_producer": "Lakim Golden",
-      "administrative_assistant": "Ruth Walker",
-      "visual_arts_director": "Ashley Walker"
-    },
+    "content_advisory": { "rating": "18+", "reasons": ["Profanity", "Adult Content", "Mature Themes"] },
     "episodes": [
       {
         "ep_number": 1,
         "ep_title": "Lou Kain - Interview",
         "ep_thumbnail": "https://www.2g-ent.com/uploads/2/7/5/9/27593217/the-redroom-mic-check-lou-kain-thumbnail_orig.jpg",
-        "ep_description": "Get to know the vibes & kick it with our guest this episode, Lou Kain",
-        "video_url": "https://www.youtube.com/embed/nJsore_53W8",
-        "episode_credits": {
-          "host": "Andrew McBride",
-          "executive_producer": "Lakim Golden",
-          "videography": "Terran Dupree",
-          "administrative_assistant": "Ruth Walker",
-          "visual_arts_director": "Ashley Walker"
-        }
-      },
-      {
-        "ep_number": 2,
-        "ep_title": "Jair Tha PopStar - Interview",
-        "ep_thumbnail": "https://www.2g-ent.com/uploads/2/7/5/9/27593217/the-redroom-mic-check-jair-tha-popstar-thumbnail-jpg_orig.jpg",
-        "ep_description": "It's all about PopStar status with this episode's guest, Jair Tha PopStar",
-        "video_url": "https://www.youtube.com/embed/ObnByPnG50w",
-        "episode_credits": {
-          "host": "Andrew McBride",
-          "executive_producer": "Lakim Golden",
-          "videography": "Terran Dupree",
-          "administrative_assistant": "Ruth Walker",
-          "visual_arts_director": "Ashley Walker"
-        }
-      },
-      {
-        "ep_number": 3,
-        "ep_title": "Brixx - Interview",
-        "ep_thumbnail": "https://www.2g-ent.com/uploads/2/7/5/9/27593217/the-redroom-mic-check-brixx-thumbnail-jpg_orig.jpg",
-        "ep_description": "Discuss janky promoters, hustles & 50 50 with this episode's guest, Brixx",
-        "video_url": "https://www.youtube.com/embed/IyoGF4ErQvA",
-        "episode_credits": {
-          "host": "Andrew McBride",
-          "executive_producer": "Lakim Golden",
-          "videography": "Terran Dupree",
-          "administrative_assistant": "Ruth Walker",
-          "visual_arts_director": "Ashley Walker"
-        }
+        "video_url": "https://www.youtube.com/embed/nJsore_53W8"
       }
     ]
+  },
+  {
+    "id": "main-mv-hub",
+    "type": "hub",
+    "title": "2G Music Videos",
+    "category": "Music Videos",
+    "description": "Explore the official visual releases from the 2G roster.",
+    "cover_art": "https://www.2g-ent.com/uploads/2/7/5/9/27593217/main-banner_orig.jpg",
+    "featured": true
   },
   {
     "id": "loukain-mv-series",
     "type": "series",
     "title": "Lou Kain: Music Videos",
     "category": "Music Videos",
-    "description": "The official music video collection from Lou Kain.",
+    "parent_hub": "main-mv-hub",
     "cover_art": "https://i.ytimg.com/vi/g0_-DDaUUws/maxresdefault.jpg",
-    "featured": true,
     "episodes": [
-      {
-        "ep_number": 1,
-        "ep_title": "KTV",
-        "ep_thumbnail": "https://i.ytimg.com/vi/g0_-DDaUUws/maxresdefault.jpg",
-        "ep_description": "Official Music Video for KTV by Lou Kain.",
-        "video_url": "https://www.youtube.com/embed/g0_-DDaUUws"
-      },
-      {
-        "ep_number": 2,
-        "ep_title": "Live From Cali",
-        "ep_thumbnail": "https://i.ytimg.com/vi/aDvoVLHwP3I/maxresdefault.jpg",
-        "ep_description": "Lou Kain - Live From Cali (Official Video).",
-        "video_url": "https://www.youtube.com/embed/aDvoVLHwP3I"
-      },
-      {
-        "ep_number": 3,
-        "ep_title": "I Can’t Go",
-        "ep_thumbnail": "https://i.ytimg.com/vi/G13fn14yN84/maxresdefault.jpg",
-        "ep_description": "Official Music Video for I Can’t Go by Lou Kain.",
-        "video_url": "https://www.youtube.com/embed/G13fn14yY84"
-      }
+      { "ep_title": "KTV", "video_url": "https://www.youtube.com/embed/g0_-DDaUUws" }
     ]
   },
   {
@@ -99,17 +42,10 @@
     "type": "series",
     "title": "Jair Tha PopStar: Music Videos",
     "category": "Music Videos",
-    "description": "Official music video collection from Jair Tha PopStar.",
+    "parent_hub": "main-mv-hub",
     "cover_art": "https://i.ytimg.com/vi/rQwLfWLwLwo/maxresdefault.jpg",
-    "featured": true,
     "episodes": [
-      {
-        "ep_number": 1,
-        "ep_title": "California",
-        "ep_thumbnail": "https://i.ytimg.com/vi/rQwLfWLwLwo/maxresdefault.jpg",
-        "ep_description": "Official Music Video for California by Jair Tha PopStar.",
-        "video_url": "https://www.youtube.com/embed/rQwLfWLwLwo"
-      }
+      { "ep_title": "California", "video_url": "https://www.youtube.com/embed/rQwLfWLwLwo" }
     ]
   },
   {
@@ -117,17 +53,10 @@
     "type": "series",
     "title": "Brixx: Music Videos",
     "category": "Music Videos",
-    "description": "Official music video collection from Brixx.",
+    "parent_hub": "main-mv-hub",
     "cover_art": "https://i.ytimg.com/vi/uksWYdEHsjU/maxresdefault.jpg",
-    "featured": true,
     "episodes": [
-      {
-        "ep_number": 1,
-        "ep_title": "Priorities",
-        "ep_thumbnail": "https://i.ytimg.com/vi/uksWYdEHsjU/maxresdefault.jpg",
-        "ep_description": "Official Music Video for Priorities by Brixx.",
-        "video_url": "https://www.youtube.com/embed/uksWYdEHsjU"
-      }
+      { "ep_title": "Priorities", "video_url": "https://www.youtube.com/embed/uksWYdEHsjU" }
     ]
   },
   {
@@ -135,17 +64,10 @@
     "type": "series",
     "title": "It's Nuk: Music Videos",
     "category": "Music Videos",
-    "description": "Official music video collection from It's Nuk.",
+    "parent_hub": "main-mv-hub",
     "cover_art": "https://i.ytimg.com/vi/NvzVPkG9QQU/maxresdefault.jpg",
-    "featured": true,
     "episodes": [
-      {
-        "ep_number": 1,
-        "ep_title": "Get Down",
-        "ep_thumbnail": "https://i.ytimg.com/vi/NvzVPkG9QQU/maxresdefault.jpg",
-        "ep_description": "Official Music Video for Get Down by It's Nuk.",
-        "video_url": "https://www.youtube.com/embed/NvzVPkG9QQU"
-      }
+      { "ep_title": "Get Down", "video_url": "https://www.youtube.com/embed/NvzVPkG9QQU" }
     ]
   },
   {
@@ -153,17 +75,10 @@
     "type": "series",
     "title": "2G Collabs & Singles",
     "category": "Music Videos",
-    "description": "Label-wide remixes and featured collaborations.",
+    "parent_hub": "main-mv-hub",
     "cover_art": "https://i.ytimg.com/vi/pASUzCPvptI/maxresdefault.jpg",
-    "featured": false,
     "episodes": [
-      {
-        "ep_number": 1,
-        "ep_title": "Shabooya Remix",
-        "ep_thumbnail": "https://i.ytimg.com/vi/pASUzCPvptI/maxresdefault.jpg",
-        "ep_description": "Shabooya Remix Feat. Brixx, Lou Kain, It’s Nuk.",
-        "video_url": "https://www.youtube.com/embed/pASUzCPvptI"
-      }
+      { "ep_title": "Shabooya Remix", "video_url": "https://www.youtube.com/embed/pASUzCPvptI" }
     ]
   }
 ]
